@@ -31,6 +31,6 @@ git clone https://github.com/yourusername/dl-neuro-playground.git
 cd dl-neuro-playground
 pip install -r requirements.txt
 
-👤 Author
+##👤 Author
 Yeo-Jun Yoon (Daniel Yoon)
 Neurologist | AI & Deep Learning Enthusiast
