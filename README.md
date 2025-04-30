@@ -36,4 +36,6 @@ pip install -r requirements.txt
 **Yeo-Jun Yoon**  
 Neurologist | AI & Deep Learning Enthusiast  
 🔗 [GitHub Profile](https://github.com/Danielyjyoon)  
-📧 yyjun916@gmail.com
+Email: yyjun916@gmail.com
+Linkedin:
+ORCID: 
