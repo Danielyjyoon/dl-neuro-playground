@@ -44,8 +44,6 @@ Utility to conform images to 256×256×256 resolution and voxel spacing — ofte
 
 ---
 
----
-
 ## 📦 Requirements
 
 To install the required Python packages, run:
