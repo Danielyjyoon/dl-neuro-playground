@@ -12,11 +12,11 @@ This folder contains bash and Python scripts to streamline FreeSurfer processing
 | Script File | Description |
 |-------------|-------------|
 | `recon_all_single.sh` | Run recon-all for a single subject |
-| `recon_all_bs_only.sh` | Only brainstem segmentation for one subject |
+| `recon_bs_single.sh` | Only brainstem segmentation for one subject |
 | `recon_all_iter.sh` | Iterate recon-all across all subject directories |
-| `recon_all_iter_bs.sh` | Iterate brainstem segmentation only |
+| `recon_bs_iter.sh` | Iterate brainstem segmentation only |
 | `convert_mgz_to_nii.sh` | Convert specific `.mgz` files to `.nii` |
-| `merge_brainstem.py` | (To be implemented) Merge brainstem segmentation into DKT label |
+| `Freesurfer_BS.py` | (To be implemented) Merge brainstem segmentation into DKT label |
 
 ## 🚀 Usage
 
