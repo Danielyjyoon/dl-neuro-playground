@@ -15,12 +15,8 @@ It includes exercises from the **Convolutional Neural Networks course** in the *
   - Batch normalization and dropout
   - CNN training pipelines
 
-### `unet_segmentation/`
-- A PyTorch implementation of the UNet architecture
-- Originally developed for brain image segmentation in a neuroimaging research project
-- Includes:
-  - Model definition
-  - Training/evaluation scripts
-  - Example usage and visualization
+### `nnUNet/`
+- nnUNet used in WMH segmentation project
+- Currently writing a paper, WMH segmentation from CT
 
 ---
