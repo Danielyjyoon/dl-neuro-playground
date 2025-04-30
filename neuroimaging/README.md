@@ -44,5 +44,11 @@ Utility to conform images to 256×256×256 resolution and voxel spacing — ofte
 
 ---
 
-## 🗂 Folder Structure Example
+---
 
+## 📦 Requirements
+
+To install the required Python packages, run:
+
+```bash
+pip install -r requirements.txt
