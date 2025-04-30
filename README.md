@@ -30,11 +30,8 @@ It includes PyTorch-based implementations of neural network models and useful sc
 git clone https://github.com/yourusername/dl-neuro-playground.git
 cd dl-neuro-playground
 pip install -r requirements.txt
-
+```
 ---
-
----
-
 ## 👤 Author
 **Yeo-Jun Yoon**  
 Neurologist | AI & Deep Learning Enthusiast  
