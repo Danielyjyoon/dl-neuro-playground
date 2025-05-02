@@ -22,14 +22,6 @@ It includes PyTorch-based implementations of neural network models and useful sc
 - Attention mechanism practice
 - *(Transformer coming soon)*
 
----
-
-## 🚀 Getting Started
-
-```bash
-git clone https://github.com/yourusername/dl-neuro-playground.git
-cd dl-neuro-playground
-pip install -r requirements.txt
 ```
 ---
 ## 👤 Author
